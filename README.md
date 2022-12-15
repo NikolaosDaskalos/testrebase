@@ -9,3 +9,5 @@ merge1
 norebase change 1
 
 hotfix2
+
+autorebase 1
